@@ -1,1 +1,1 @@
-一个机遇Netty网络框架的MQTT协议Server与Client实例，可以直接改造使用
+一个基于Netty网络框架的MQTT协议Server与Client实例，可以直接改造使用
